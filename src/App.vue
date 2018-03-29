@@ -19,7 +19,7 @@ export default {
       sound_1: {
         id: 1,
         name: 'Bergziege',
-        file: 'C:\\Users\\lukas\\Documents\\Projekte\\wc3soundboard\\src\\bergziege.mp3',
+        file: 'https://cdn.rawgit.com/pWnH/soundboard_for_pnp/c4e8af95/src/bergziege.mp3',
       },
     }
   },
