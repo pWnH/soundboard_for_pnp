@@ -74,7 +74,21 @@ export default {
           name: 'Seid ihr der König?',
           file: 'https://cdn.rawgit.com/pWnH/soundboard_for_pnp/66c7441f/src/assets/seid_ihr_der_k%C3%B6nig.wav',
         },
-
+        {
+          id: 10,
+          name: 'Arbeit abgeschlossen',
+          file: 'https://cdn.rawgit.com/pWnH/soundboard_for_pnp/428d79ee/src/assets/arbeit_abgeschlossen.wav',
+        },
+        {
+          id: 11,
+          name: 'Arbeit Arbeit',
+          file: 'https://cdn.rawgit.com/pWnH/soundboard_for_pnp/428d79ee/src/assets/arbeit_arbeit.wav',
+        },
+        {
+          id: 12,
+          name: 'Das kann ich',
+          file: 'https://cdn.rawgit.com/pWnH/soundboard_for_pnp/428d79ee/src/assets/das_kann_ich.wav',
+        },
       ],
     }
   },
